@@ -2,7 +2,7 @@
 /*  seven_seg_config.h                              */
 /*                                                  */
 /*  Created on: Apr 15, 2023                        */
-/*  Author: Soumyakanta Behera						*/
+/*  Author: Soumyakanta Behera						          */
 /****************************************************/
 
 #ifndef INC_SEVEN_SEG_DRIVER_CONFIG_H_
