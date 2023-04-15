@@ -2,7 +2,7 @@
 /*  seven_seg_config.c                              */
 /*                                                  */
 /*  Created on: Apr 15, 2023                        */
-/*  Author: Soumyakanta Behera						*/
+/*  Author: Soumyakanta Behera			    */
 /****************************************************/
 
 
